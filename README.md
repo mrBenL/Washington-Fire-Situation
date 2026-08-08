@@ -104,3 +104,7 @@ Data © [Washington State DNR](https://dnr.wa.gov/) and the
 [National Interagency Fire Center](https://www.nifc.gov/), used as published.
 Basemap © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors,
 tiles © [CARTO](https://carto.com/attributions). Geocoding by Esri.
+
+---
+
+Built by **Ben Luthy** with [Claude Code](https://claude.com/product/claude-code).
